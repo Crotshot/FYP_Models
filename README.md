@@ -1,2 +1,2 @@
 # FYP_Models
-3D models made in blender for my final year project
+.blend files containing the 3D assets used in my FYP available here: https://github.com/Crotshot/FYP, there is also a few other unsused prototype assets
